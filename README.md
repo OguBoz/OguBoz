@@ -1,7 +1,5 @@
 ### Hi there, I'm Oguz - [website] 👋
 
-[![Website](https://img.shields.io/website?label=oguzhanbozkurt.com&style=for-the-badge&url=https%3A%2F%2Foguzhanbozkurt.com)](https://oguzhanbozkurt.com)
-
 ## I'm a Husband, Father, Developer, and Teacher!
 
 - 🔭 I’m currently working on React and GraphQL
