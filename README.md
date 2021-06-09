@@ -2,10 +2,10 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
-- 🔭 I’m currently working on React and GraphQL
+- 🔭 I’m currently working on .NET, DevOps and Azure
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Become a more complete developer
+- 🥅 2021 Goals: Become a more complete developer
 - ⚡ Fun fact: I love to do sports and read books
 
 
