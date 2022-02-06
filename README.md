@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on .NET, DevOps and Azure
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Become a more complete developer
+- 🥅 2022 Goals: Become a more complete developer
 - ⚡ Fun fact: I love to do sports and read books
 
 
